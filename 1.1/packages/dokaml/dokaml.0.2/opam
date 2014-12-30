@@ -1,0 +1,11 @@
+opam-version: "1"
+maintainer: "contact@applidok.com"
+build: [
+  ["./configure" "--prefix" prefix]
+  [make "build"]
+  [make "install"]
+]
+remove: [
+  ["ocamlfind" "remove" "dokaml"]
+]
+depends: ["ocamlfind" "core" "async_ssl" "cohttp" "yojson"]

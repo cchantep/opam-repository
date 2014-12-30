@@ -1,4 +1,8 @@
+packages/dokaml/dokaml.0.2/url\ 62e7fdedb9c1722cfdd5cb08a9757ab5\ 0o644
+packages/dokaml/dokaml.0.2/opam\ 7da1e72e1e41f4952ee7f973abf31d20\ 0o644
+packages/dokaml/dokaml.0.2/descr\ efa3f8d9e7be096cbd6ee82f26d79eaf\ 0o644
 packages/dokaml/dokaml.0.1/url\ 14658ae8d08ff1f82869ef9035c27f6f\ 0o644
 packages/dokaml/dokaml.0.1/opam\ b7b6e50ac7b7711dace8b29d0977feeb\ 0o644
 packages/dokaml/dokaml.0.1/descr\ efa3f8d9e7be096cbd6ee82f26d79eaf\ 0o644
+archives/dokaml.0.2+opam.tar.gz\ 23e9919a4ad0c9265601acdd751718b0\ 0o644
 archives/dokaml.0.1+opam.tar.gz\ 21d62db7cacd78e6da407079ed938472\ 0o644
